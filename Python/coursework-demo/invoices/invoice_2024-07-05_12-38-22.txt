@@ -1,0 +1,7 @@
+Date and Time: 2024-07-05_12-38-22
+Customer/Employee Name: shiridhar
+Items:
+ID: 5, Product: Armchair, Quantity: 12, Price: $150.0, Total: $1800.0
+VAT (13%): $234.0
+Shipping Cost: $1000.0
+Total Amount: $3034.0

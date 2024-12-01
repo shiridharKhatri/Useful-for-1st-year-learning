@@ -1,0 +1,5 @@
+Date and Time: 2024-07-05_12-40-46
+Customer/Employee Name: kaneki
+Items:
+ID: 2, Product: Twin_Bed, Quantity: 123, Price: $600.0, Total: $73800.0
+Total Amount: $73800.0

@@ -1,0 +1,6 @@
+name, math, science, physics, nepali
+john, 88, 76, 77, 66
+sam, 76, 88, 65, 80
+anna, 76, 56, 79, 77
+hari, 55, 58, 65, 45
+shyam, 23, 65, 87, 34

@@ -1,0 +1,6 @@
+1 HNI_Corporation Bunk_Bed 100 400.0
+2 HNI_CorporationHaworth_Inc. Twin_Bed 323 600.0
+3 Achham_furniture Sleeper_Sofa 38 200.0
+4 Kimball_International_Inc. Corner_sofa 75 350.0
+5 Kohler_Co. Armchair 6 150.0
+6 Masco_Corporation Desk_chair 40 100.0

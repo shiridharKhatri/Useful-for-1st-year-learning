@@ -1,0 +1,8 @@
+Date and Time: 2024-07-05_12-39-34
+Customer/Employee Name: khatri
+Items:
+ID: 3, Product: Sleeper_Sofa, Quantity: 12, Price: $200.0, Total: $2400.0
+ID: 5, Product: Armchair, Quantity: 12, Price: $150.0, Total: $1800.0
+VAT (13%): $546.0
+Shipping Cost: $120.0
+Total Amount: $4866.0
